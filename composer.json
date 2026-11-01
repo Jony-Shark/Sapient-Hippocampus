@@ -1,0 +1,21 @@
+{
+    "name": "sapient/hippocampus",
+    "description": "Hippocampus - Vector and relational long-term memory plugin for the Sapient AI Framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jony Shark",
+            "email": "brjprog@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sapient\\Hippocampus\\": "src/"
+        }
+    }
+}

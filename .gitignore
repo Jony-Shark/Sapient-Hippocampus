@@ -1,0 +1,19 @@
+# Environment
+/vendor/
+/.env
+/Think
+*.log
+*.pid
+*.db
+*.index
+.DS_Store
+.idea/
+.vscode/
+.phpunit.result.cache
+/visuals/
+/database/
+/database-backup/
+/log/
+/synapses/
+/venv
+/__pycache__
